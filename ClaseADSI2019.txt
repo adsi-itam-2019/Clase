@@ -3,7 +3,4 @@
 PaulinaBustos
 PaulVI
 PaulinaBustosArellano
-
-This aint the same file boii
-- Castisho
-
+UnaModificaci�n
