@@ -1,6 +1,10 @@
-# Clase
+﻿# Clase
 
 PaulinaBustos
 PaulVI
 PaulinaBustosArellano
 UnaModificaci�n
+
+
+
+David Alexis Duran Ruiz
