@@ -1,6 +1,8 @@
 # Clase
 
 PaulinaBustos
+PaulVI
+PaulinaBustosArellano
 
 This aint the same file boii
 - Castisho
