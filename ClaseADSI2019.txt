@@ -1,6 +1,8 @@
-# Clase
+﻿# Clase
 
 PaulinaBustos
 PaulVI
 PaulinaBustosArellano
 UnaModificaci�n
+
+Fernando Merino
