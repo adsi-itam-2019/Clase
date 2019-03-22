@@ -1,4 +1,4 @@
-﻿# Clase
+# Clase
 
 PaulinaBustos
 PaulVI
@@ -7,11 +7,11 @@ UnaModificaci�n
 
 
 Manuel Fernandez
+David Alexis Duran Ruiz
+Bernardo Altamirano
 
 
 
 
 
 Rodrigo Castillo
-
-
