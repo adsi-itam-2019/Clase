@@ -1,9 +1,11 @@
 ﻿# Clase
 
 PaulinaBustos
+
 PaulVI
 PaulinaBustosArellano
 UnaModificaci�n
+
 Frank
 
 Manuel Fernandez
@@ -15,3 +17,9 @@ Manuel Fernandez
 Rodrigo Castillo
 
 Eyal Schuller
+
+
+
+
+Santiago Borobia Rodriguez.
+
