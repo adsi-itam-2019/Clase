@@ -1,7 +1,6 @@
 # Clase
 
 PaulinaBustos
-
+PaulVI
+PaulinaBustosArellano
 UnaModificaci�n
-
-
